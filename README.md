@@ -1,2 +1,2 @@
-# weblog1
+# weblog
  Um Blog com Spring Boot
